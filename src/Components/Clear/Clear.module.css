@@ -1,0 +1,11 @@
+.clear {
+    background-color: #d81f5a;
+    font-weight: bold;
+    border: none;
+    color: white;
+    padding: 12px 0px;
+    width: 100%;
+    margin-top: 6px;
+    border-bottom-right-radius: 12px;
+    border-bottom-left-radius: 12px;
+}

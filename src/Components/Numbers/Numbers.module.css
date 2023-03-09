@@ -1,0 +1,13 @@
+.numbers {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 0;
+    grid-row-gap: 0;
+}
+
+.numbers-item {
+    background: none;
+    border: none;
+    color: white;
+    padding: 12px 0px;
+}

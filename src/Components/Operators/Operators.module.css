@@ -1,0 +1,16 @@
+.operators {
+    margin-bottom: 6px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-column-gap: 0;
+    grid-row-gap: 0;
+    background-color: #d81f5a;
+}
+
+.operators-item {
+    font-weight: bold;
+    background: none;
+    border: none;
+    color: white;
+    padding: 12px 0px;
+}
